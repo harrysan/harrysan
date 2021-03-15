@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @harrysan
+- 👀 I’m interested in programming, multimedia editing and gaming.
+- 🌱 I’m currently learning python.
+- 📫 How to reach me email me at harrysantoso888@gmail.com and visit my blog seputarinformasi.blogspot.com
+
+Thankyouu <3
+
+<!---
+harrysan/harrysan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
