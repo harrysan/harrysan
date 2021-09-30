@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harrysan
 - 👀 I’m interested in programming, multimedia editing and gaming.
-- 🌱 I’m currently learning python.
+- 🌱 Still learning.
 - 📫 How to reach me at harrysantoso888@gmail.com and visit my blog https://menulisinformasi.blogspot.com/
 
 Thankyouu <3
