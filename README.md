@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @harrysan
-- 👀 I’m interested in programming, multimedia editing and gaming.
+- 👀 I’m interested in programming and gaming.
 - 🌱 Still learning.
-
-Thankyou <3
 
 <!---
 harrysan/harrysan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
