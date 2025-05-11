@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harrysan
+👋 Hi, I’m @harrysan
 
 <!---
 harrysan/harrysan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
